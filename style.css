@@ -96,7 +96,8 @@ input[type="text"]:focus {
   padding: 5px 20px;
 }
 .notify-section {
-  width: 35%;
+  padding: 5px;
+  width: unset;
   margin: 0 auto;
 }
 .action-left {
