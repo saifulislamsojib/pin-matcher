@@ -104,7 +104,7 @@ input[type="text"]:focus {
   color: #ff3c5f;
   margin-top: 10px;
 }
-#no-match-notify,
-#match-notify {
+.notify {
   display: none;
+  margin-bottom: 15px;
 }
